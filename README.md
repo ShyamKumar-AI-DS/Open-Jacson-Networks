@@ -68,3 +68,6 @@ print("----------------------------------------------------------------------")
 ## Output
 ![image](https://user-images.githubusercontent.com/93427182/204213498-2c23e6eb-114c-4d93-98dc-e7882c584d78.png)
 
+## Result :
+Thus the experiment executed sucessfully.
+
