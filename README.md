@@ -17,6 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://user-images.githubusercontent.com/93427182/204213444-a10a8a0a-ecf3-4ccc-a880-99258f1d3781.png)
 
 
 ## Program
@@ -64,6 +65,6 @@ else:
 print("----------------------------------------------------------------------")
 
 ```
-
 ## Output
+![image](https://user-images.githubusercontent.com/93427182/204213498-2c23e6eb-114c-4d93-98dc-e7882c584d78.png)
 
